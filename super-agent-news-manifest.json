@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[moveworks.com](https://www.moveworks.com/us/en/resources/blog/agentic-ai-recruitment-workflows-use-cases-and-examples)",
+    "[metaview.ai](https://www.metaview.ai/resources/blog/agentic-recruiting)",
+    "[yahoo.com](https://finance.yahoo.com)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)",
+    "[shrm.org](https://www.shrm.org)",
+    "[forbes.com](https://www.forbes.com)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=2.3 lines @1120px; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned; button_contrast=pass",
+  "generated_at": "2026-07-02T21:25:05.200837+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused landing page for recruiters who live in ATSs, calendars, email, and sourcing tools. Super is positioned as the sharper alternative for repeated, cross\u2011system recruiting workflows because it operates real computers and reuses a computer\u2011use cache\u2014so scheduling, rediscovery, and coordination get faster and cheaper over time. The page uses current market evidence on agentic AI in recruiting and computer\u2011use agents, and fairly contextualizes ChatGPT, Gemini, Grok, Siri, Folk, and Orchids."
+}
